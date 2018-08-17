@@ -1,0 +1,18 @@
+inicio
+dsads
+dadadad
+dasddasdasdads
+dadadadadadaadadad
+dasdadadadadadaddadada
+fim - primeiro fim
+inicio
+dasddasdasdads
+dadadadadadaadadad
+dasdadadadadadaddadada
+fim
+inicio - ultimo inicio
+ERROR
+sqlException
+java.sql.SQLException:
+Unable to create connection
+fim - ultimo fim
