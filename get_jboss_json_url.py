@@ -60,24 +60,3 @@ def get_all_jboss_server_status(hostserver):
     
 get_jboss_hostserver()
 get_all_jboss_server_status(get_jboss_hostserver())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
