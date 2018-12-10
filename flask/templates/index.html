@@ -1,0 +1,20 @@
+<html>
+<head>
+	<script src="file://D:/Python37-32/flask/jquery-3.3.1.min.js"></script>
+    <title>Flask Test</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+	   <br>
+            <div id="results">
+                {% for result in results%}
+                  <tr>
+                    <td>{{ result[0] }}</td>
+                    <td>{{ result[1] }}</td>
+                  </tr>
+                {% endfor %}
+            </div>
+    <br>
+	</script>
+</body>
+</html>

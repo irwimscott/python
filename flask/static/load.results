@@ -1,0 +1,30 @@
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<table style="width:24%">
+  <tr>
+    <th>Server</th>
+    <th>Status</th>
+	<th>Ultima Atualizacao</th>
+  </tr>
+  <tr>
+    <td>Ofpubdes</td>
+    <td style="text-align:center"><img src="/static/success.gif" height="20" width="20"></td>
+	<td>2018/12/09 00:03</td>
+  </tr>
+  <tr>
+    <td>Leinfdes</td>
+    <td style="text-align:center"><img src="/static/reload.gif" height="20" width="20"></td>
+	<td>2018/12/09 00:03</td>
+  </tr>
+  <tr>
+    <td>Internet-Pub</td>
+    <td style="text-align:center"><img src="/static/success.gif" height="20" width="20"></td>
+	<td>2018/12/09 00:07</td>
+  </tr>
+  </table>
